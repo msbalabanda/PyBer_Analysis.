@@ -8,23 +8,28 @@ The summary shows that there is a larger demand for Pyber services in urban comm
 
  **Total Fares**
  This pie chart shows that the majority of total fares are coming from the urban city(approx 63%) wheras the rural city makes up less than 10%.
- 
+ <img width="415" alt="Screen Shot 2021-05-30 at 3 46 49 PM" src="https://user-images.githubusercontent.com/39747985/120122441-b6140880-c176-11eb-8825-02065b75f80c.png">
+
  **Total Rides**
  This pie chart shows that a significant number of rides are demanded in the urban city(approx 70%) wheras the rural city demand is less than 6%
- 
+![Fig6](https://user-images.githubusercontent.com/39747985/120122447-c6c47e80-c176-11eb-9f3b-1a2014746b1b.png)
+
  **Total Drivers**
  This Pie chart also shows that there is a significant demand in the number of drivers (over 80%) in the urban community versus the rural city(less than 3%)
- 
+ ![Fig7](https://user-images.githubusercontent.com/39747985/120122464-e8256a80-c176-11eb-94b4-29f8f2a788d7.png)
+
  **Summary DataFrame**
  The data frame provides a short detailed summary of our findings from the piecharts. However, in terms the average fare per ride the rural community($35) pays approximately $10 more than the urban community($25). Whilst the Suburban community average fare falls in between($31). The average fare per driver is about $55 in rural cities, whereas the average fare per driver is about $17 in urban cities. Suburban cities' average fare per driver is about $40. Looking at the data obtained from the average fare per ride and average fare per driver the results support the law of supply and demand. Pyber services in the rural community are significantly lower compared to urban and suburban cities but the average fare per driver and ride are significatly higher.
- 
+ <img width="719" alt="Screen Shot 2021-05-30 at 5 39 49 PM" src="https://user-images.githubusercontent.com/39747985/120122473-f6738680-c176-11eb-8291-5fded11ea136.png">
+
  **Multiple-line chart  for the Total Fare by City Type**
  The multiple-line chart provides a visual representation of our findings in the PyBer Summary DataFrame by providing trends of total fares in rural, suburban, and urban cities between January 2019 and April 2019. 
  The highest fare revenue (yellow line $2300) in the urban city was observed between February and March whereas the lowest fare revenue($1600) was in January.
  The highest fare revenue (orange line $1400) in the suburban city was observed in February and the lowest fare revenue $750 was in the month of January and April.
  The highest fare revenue (blue line $500) in the rural city was observed in April and the lowest fare revenue $5 was in the month of January.
  One noteworthy peak in total fares among urban, suburban, and rural cities occurred sometime at the end of February where there was a downward trend experienced right after a significant peak period.
- 
+ ![pyber_challenge](https://user-images.githubusercontent.com/39747985/120122483-0d19dd80-c177-11eb-9355-9fb6a8dcf3a5.png)
+
  **SUMMARY**
 *The demand for Pyber services are significant in the urban cities compared to the suburban and rural cities based on the total rides, fares and driver statistics.
  As a result majority of Pyber profits are from Urban cities.
